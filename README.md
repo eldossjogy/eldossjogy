@@ -1,7 +1,7 @@
 <h3>Hi, I'm Eldoss Jogy 💕</ h3>
 <h6>Computer Science student at <a href="https://tmucscu.com/">Toronto Metropolitan University</a></h6>
 
-- 👨‍💻 All of my projects are available on my [portfolio website](https://eldossjogy.vercel.app/)
+- 👨‍💻 All of my projects are available on my [portfolio website](https://eldoss.me/)
 
 - 📫 You can reach me at **eldossjogy@gmail.com**
 
